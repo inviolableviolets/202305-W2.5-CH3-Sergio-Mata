@@ -1,1 +1,1 @@
-# FizzBuzz classes - Sergio Mata
+# FizzBuzz - Sergio Mata

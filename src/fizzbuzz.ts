@@ -21,5 +21,3 @@ export const fizzBuzz = (start: number, end: number) => {
 
   return fizzbuzzedNumbers;
 };
-
-console.log(fizzBuzz(2, 15));

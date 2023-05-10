@@ -1,4 +1,4 @@
-import { fizzBuzz } from "./fizzBuzz";
+import { fizzBuzz } from "./fizzbuzz.js";
 
 describe("When given a sum function", () => {
   describe("When we give it 2 and 6 as parameters", () => {
